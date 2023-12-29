@@ -142,3 +142,4 @@ public class RentalManager implements RentalService {
         rentalRepository.delete(deleteRental);
         }
     }
+
